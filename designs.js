@@ -1,4 +1,4 @@
-// variable for the element that determines the table's heigth
+// variable for the element that determines the table's height
 const gridHeight = document.getElementById("inputHeight");
 // variable for the element that determines the table's width
 const gridWidth = document.getElementById("inputWidth");
